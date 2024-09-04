@@ -25,5 +25,6 @@
 <a href="https://instagram.com/wildan_fatahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wildanfatah22" height="30" width="40" /></a>
 </p><hr>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/wildanfatahh22?theme=dark&font=Noto%20Sans%20Kannada)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wildanfatah22&theme=dark" alt="wildanfatah22" /></p>
