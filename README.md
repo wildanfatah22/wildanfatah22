@@ -27,4 +27,4 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wildanfatahh22?theme=dark&font=Noto%20Sans%20Kannada)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wildanfatahh22&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wildanfatah22&theme=tokyonight-duo)](https://git.io/streak-stats)
